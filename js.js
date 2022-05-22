@@ -1,1 +1,1 @@
-console.log(Math.random());
+document.getElementById("id");
